@@ -1,3 +1,10 @@
-<h1 align="center">Hi there, I'm <a href="https://t.me/whhhwyhy" target="_blank">Egor</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">ПРЕДСТАВЛЯЮ ВАМ СВОЙ ПАРСЕР ДВАЧИКА</h3>
+# ДВАЧ ПАРСЕР
+Сохраняет в JSON файл словари с любой борды.
+
+## Зачем?
+В будущем скрипт станет частью телеграм бота, через который  ̶з̶а̶б̶и̶т̶ы̶е̶ ̶и̶н̶ц̶е̶л̶к̶и̶ люди будут ридить двач.
+
+## Что в будущем? 
+1. Улучшение структуры и читаемости кода.
+2. Переход с JSON на СУБД.
+3. Связь с Telegram ботом.
